@@ -1,0 +1,16 @@
+TEORIA 
+--------------
+Questão 1 O algoritimo KNN gera modelo? Explique como funcionaria uma implantação desta técnica em uma operação real (produção).
+Questão 2 Pesquise quais outras distâncias podem ser utilizadas no Knn. Mostre a(s) fórmulas.
+Questão 3 Como você faria uma regressão para estimar uma renda presumida (R$) utilizando KNN? Explique. 
+
+
+PRÁTICA
+--------------
+--> Utilize como base os arquivos Knn_1.py, Knn_2.py e Case_cobranca.csv.
+Mude o parâmetro "random_state = 25" destes códigos para os 3 últimos dígitos de sua matrícula (sem zeros à esquerda).
+
+Questão 1 Rode o código Python "Knn_1.py" e justifique qual o melhor modelo para classificação.
+Questão 2 Rode o código Python "Knn_2.py" e justifique qual o melhor k (n_neighbors) para sua amostra de teste. 
+
+----- Gere apenas um arquivo Word com as respostas -----
